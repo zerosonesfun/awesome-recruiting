@@ -1,7 +1,7 @@
 # Awesome Recruiting 🐿
 An 🕶 awesome-list of tools and information for talent acquisition professionals. Not everything here has been tested and the maintainer of this list does not endorse anything listed. If something doesn't work out the maintainer of this list is not responsible.
 
-###### Latest news: This is just getting started as of August 8, 2022. Check back later.
+#### Latest news: This is just getting started as of August 8, 2022. Check back later.
 
 --------------------
 
