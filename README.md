@@ -43,6 +43,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 Lists similar to this one.
 
 - [Awesome Recruitment by Sjamilla](https://github.com/Sjamilla/awesome-recruitment) - A list of talent acquisition resources by Sjamilla van der Tooren. `free`
+- [WizardSourcer Free Sourcing Tools](https://wizardsourcer.com/tools/) - A large list of tools for recruiters with the ability to download a CSV file of the list. `free`
 
 ## Contributing
 
