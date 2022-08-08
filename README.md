@@ -11,7 +11,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 --------------------
 
-## X-ray
+## Searching, Boolean and X-ray
 
 **[`^        back to top        ^`](#)**
 
