@@ -23,9 +23,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 **[`^        back to top        ^`](#)**
 
-Ways to contribute are coming soon.
-
-Likely, I will use GitHub Discussions for those wanting to add to this list.
+Add to this awesome-list. Create a discussion under the [Show and Tell](https://github.com/zerosonesfun/awesome-recruiting/discussions/categories/show-and-tell) topic.
 
 ## License
 
