@@ -7,7 +7,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 ## Table of contents
 
-- [X-ray](#x-ray)
+- [Searching, Boolean and X-ray](#searching-boolean-and-x-ray)
 
 --------------------
 
@@ -15,9 +15,11 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 **[`^        back to top        ^`](#)**
 
-[X-ray](#) searching is when you use a major search engine such as Google or Bing to see deep into a website like Linkedin. 
+[Searching, Boolean and X-ray](#) Tools to help you search. 
 
-- [Recruitment Geek Xray Search Tool](https://recruitmentgeek.com/tools/linkedin) - A free LinkedIn X-ray search tool. Type in some keywords and a location and get Linkedin results. A premium version is also available.
+- [Recruitment Geek Xray Search Tool](https://recruitmentgeek.com/tools/linkedin) - A free Linkedin X-ray search tool. Type in some keywords and a location and get Linkedin profile results. A premium version is also available. `free`
+- [RecruitEm X-Ray Search](https://recruitin.net) - Fill in some fields and conduct a search of Linkedin profiles. `free`
+- [Signal Hire](https://www.signalhire.com) - Find e-mail addresses and phone numbers using a Google Chrome browser extension. `paid`
 
 ## Contributing
 
