@@ -16,9 +16,9 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 **[`^        back to top        ^`](#)**
 
-[Boolean](#) searching (also see x-ray) is a method of symbolic logic developed by George Boole, a 19th century English mathematician. Boolean searches allow you to combine words and phrases using the words AND, OR, NOT (known as Boolean operators) to limit, broaden, or define your search.
+[Boolean](#) searching (also see [x-ray](#x-ray)) is a method of symbolic logic developed by George Boole, a 19th century English mathematician. Boolean searches allow you to combine words and phrases using the words AND, OR, NOT (known as Boolean operators) to limit, broaden, or define your search.
 
-- [theBalazs' Boolean Builder](https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit#gid=413477126) - A public Google spreadsheet that helps you build a boolean search string. `free`
+- [theBalazs' Boolean Builder](https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit#gid=413477126) - A public Google spreadsheet that helps you build a boolean search string (both standard and Linkedin style). `free`
 
 ## X-ray
 
