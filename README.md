@@ -18,7 +18,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 **[`^        back to top        ^`](#)**
 
-[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), or A.I., is a fast growing sector of the talent acquisition community. Using machine learning technology and algorthms, the computer does some of the recruitment work for you.
+[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), or A.I., is a fast growing sector of the talent acquisition community. Using machine learning technology and algorithms, the computer does some of the recruitment work for you.
 
 - [hireEZ AI Sourcing](https://hireez.com/solutions/ai-sourcing/) - hireEZ’s AI Sourcing sorts and ranks best-fit talent on the open web so you don’t have to spend hours scrolling through irrelevant candidate profiles. `paid`
 
