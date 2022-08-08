@@ -38,7 +38,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 **[`^        back to top        ^`](#)**
 
-Add to this awesome-list. Create a discussion under the [Show and tell](https://github.com/zerosonesfun/awesome-recruiting/discussions/categories/show-and-tell) topic. If a link is broken or you want to correct a description, submit an issue.
+Add to this awesome-list. Create a discussion under the [Show and tell](https://github.com/zerosonesfun/awesome-recruiting/discussions/categories/show-and-tell) topic. If a link is broken or you want to correct a description, [submit an issue](https://github.com/zerosonesfun/awesome-recruiting/issues).
 
 ## License
 
