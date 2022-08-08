@@ -25,7 +25,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 Ways to contribute are coming soon.
 
-Likely, I will use GitHub Discussions for general submissions and self-hosting chit-chat.
+Likely, I will use GitHub Discussions for those wanting to add to this list.
 
 ## License
 
