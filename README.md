@@ -7,7 +7,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 ## Table of contents
 
-- [X-ray](#x---ray)
+- [X-ray](#x-ray)
 
 --------------------
 
