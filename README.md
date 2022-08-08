@@ -7,15 +7,15 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 ## Table of contents
 
-- [Searching, Boolean and X-ray](#searching-boolean-and-x-ray)
+- [X-ray](#x-ray)
 
 --------------------
 
-## Searching, Boolean and X-ray
+## X-ray
 
 **[`^        back to top        ^`](#)**
 
-[Searching, Boolean and X-ray](#) Tools to help you search. 
+[X-ray](#) searching is a technique where you use a major search engine or tool to find information within various websites. For example, you might use one of the tools below to find Linkedin profiles.
 
 - [Recruitment Geek Xray Search Tool](https://recruitmentgeek.com/tools/linkedin) - A free Linkedin X-ray search tool. Type in some keywords and a location and get Linkedin profile results. A premium version is also available. `free`
 - [RecruitEm X-Ray Search](https://recruitin.net) - Fill in some fields and conduct a search of Linkedin profiles. `free`
