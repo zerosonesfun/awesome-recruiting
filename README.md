@@ -15,7 +15,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 **[`^        back to top        ^`](#)**
 
-[Boolean](https://en.wikipedia.org/wiki/Boolean_expression) searching is a method of symbolic logic developed by George Boole, a 19th century English mathematician. Boolean searches allow you to combine words and phrases using the words AND, OR, NOT (known as Boolean operators) to limit, broaden, or define your search. This type of searching is also referred to as an x-ray search.
+[Boolean](https://en.wikipedia.org/wiki/Boolean_expression) searching is a method of symbolic logic developed by George Boole, a 19th century English mathematician. Boolean searches allow you to combine words and phrases using the words AND, OR, NOT (known as Boolean operators) to limit, broaden, or define your search. This type of searching is also referred to as a x-ray search.
 
 - [Recruitment Geek Xray Search Tool](https://recruitmentgeek.com/tools/linkedin) - A free Linkedin X-ray search tool. Type in some keywords and a location and get Linkedin profile results. A premium version is also available. `free`
 - [RecruitEm X-Ray Search](https://recruitin.net) - Fill in some fields and conduct a search of Linkedin profiles. `free`
