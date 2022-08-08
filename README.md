@@ -15,15 +15,15 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 **[`^        back to top        ^`](#)**
 
-[X-ray](#) description.
+[X-ray](#) searching is when you use a major search engine such as Google or Bing to see deep into a website like Linkedin. 
 
-- [Tool](#) - Describe the tool.
+- [Recruitment Geek Xray Search Tool](https://recruitmentgeek.com/tools/linkedin) - A free LinkedIn X-ray search tool. Type in some keywords and a location and get Linkedin results. A premium version is also available.
 
 ## Contributing
 
 **[`^        back to top        ^`](#)**
 
-Add to this awesome-list. Create a discussion under the [Show and Tell](https://github.com/zerosonesfun/awesome-recruiting/discussions/categories/show-and-tell) topic.
+Add to this awesome-list. Create a discussion under the [Show and tell](https://github.com/zerosonesfun/awesome-recruiting/discussions/categories/show-and-tell) topic.
 
 ## License
 
