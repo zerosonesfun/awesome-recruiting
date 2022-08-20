@@ -45,6 +45,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 The Grammar category lists tools that help spell check, improve writing, and/or do things such as detect gender bias.
 
+- [Grammarly](https://www.grammarly.com/) - Free online writing assistant. It integrates with your computer and/or browser and checks your grammar in real-time as you type (not just spelling). `free`
 - [Total Jobs Gender Bias Detector](https://www.totaljobs.com/insidejob/gender-bias-decoder/) - Paste in the job description and this tool will show you have many female-coded and male-coded words there are. By replacing male-biased language with our neutral or female-coded suggestions, your job advert will appeal to more people and generate more applications. `free`
 
 ## Lists
