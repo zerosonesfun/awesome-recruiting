@@ -9,6 +9,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 - [Artificial Intelligence](#artificial-intelligence)
 - [Boolean and X-ray (Search Tools)](#boolean-and-x-ray)
+- [Career Communities](#career-communities)
 - [Grammar](#grammar)
 - [Lists](#lists)
 - [Resumes](#resumes)
@@ -39,6 +40,16 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 - [theBalazs' Boolean Builder](https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit#gid=413477126) - A public Google spreadsheet that helps you build a boolean search string (both standard and Linkedin style). `free`
 - [IDCrawl](https://idcrawl.com) - A people search engine which allows you to search for people, usernames, and phone numbers. `free`
 - [Free People Search Tool](https://freepeoplesearchtool.com/) - A Google Custom Search tweaked to help you perform X-ray type people searches. `free`
+
+## Career Communities
+
+**[`^        back to top        ^`](#)**
+
+Career Communities are online communities or social networks that are geared towards people's professional lives. The most common example is LinkedIn.
+
+- [LinkedIn](https://linkedin.com) - A popular social network for people to share their work experience and happenings. `free` `paid`
+- [Alicorn Hunt](https://alicornhunt.com) - An independent online community for recruiters and talent. `free`
+- [Polywork](https://www.polywork.com/) - A social network similar to LinkedIn except that it is geared towards people who have multiple jobs. It's great for creators, consultants, freelancers, and more. `free`
 
 ## Grammar
 
