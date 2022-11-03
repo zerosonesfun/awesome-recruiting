@@ -1,7 +1,7 @@
 # Awesome Recruiting 🐿
 An 🕶 awesome-list of tools and information for talent acquisition professionals. Not everything here has been tested and the maintainer of this list does not endorse anything listed. If something doesn't work out the maintainer of this list is not responsible.
 
-#### Latest news: This is just getting started as of August 8, 2022. Check back later.
+### Although I will try to periodically update this list, my focus has changed to sharing recruiting resources at [alicornhunt.com](https://alicornhunt.com).
 
 --------------------
 
@@ -83,7 +83,7 @@ Tools related to resumes / CVs.
 
 **[`^        back to top        ^`](#)**
 
-Add to this awesome-list. Create a discussion under the [Show and tell](https://github.com/zerosonesfun/awesome-recruiting/discussions/categories/show-and-tell) topic. If a link is broken or you want to correct a description, [submit an issue](https://github.com/zerosonesfun/awesome-recruiting/issues).
+Add to or edit this awesome-list, [submit an issue](https://github.com/zerosonesfun/awesome-recruiting/issues). Or, if you know how, a pull request.
 
 ## License
 
