@@ -1,7 +1,7 @@
 # Awesome Recruiting 🐿
 An 🕶 awesome-list of tools and information for talent acquisition professionals. Not everything here has been tested and the maintainer of this list does not endorse anything listed. If something doesn't work out the maintainer of this list is not responsible.
 
-### Although I will try to periodically update this list, my focus has changed to sharing recruiting resources at [alicornhunt.com](https://alicornhunt.com).
+#### I also share resources at my website, [alicornhunt.com](https://alicornhunt.com).
 
 --------------------
 
