@@ -8,7 +8,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 ## Table of contents
 
 - [Artificial Intelligence](#artificial-intelligence)
-- [Boolean and X-ray](#boolean-and-x-ray)
+- [Boolean and X-ray (Search Tools)](#boolean-and-x-ray)
 - [Grammar](#grammar)
 - [Lists](#lists)
 - [Resumes](#resumes)
@@ -37,6 +37,8 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 - [Recruitment Geek Xray Search Tool](https://recruitmentgeek.com/tools/linkedin) - A free Linkedin X-ray search tool. Type in some keywords and a location and get Linkedin profile results. A premium version is also available. `free` `paid`
 - [Signal Hire](https://www.signalhire.com) - Find e-mail addresses and phone numbers using a Google Chrome browser extension. `paid`
 - [theBalazs' Boolean Builder](https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit#gid=413477126) - A public Google spreadsheet that helps you build a boolean search string (both standard and Linkedin style). `free`
+- [IDCrawl](https://idcrawl.com) - A people search engine which allows you to search for people, usernames, and phone numbers. `free`
+- [Free People Search Tool](https://freepeoplesearchtool.com/) - A Google Custom Search tweaked to help you perform X-ray type people searches. `free`
 
 ## Grammar
 
