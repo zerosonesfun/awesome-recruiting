@@ -62,7 +62,7 @@ The Grammar category lists tools that help spell check, improve writing, and/or 
 - [Job Page Grader](https://jobpagegrader.com/) - See how good your job description is and how to improve it. Paste any of your job page URLs into a box and check it against 80 proven performance criteria that affects whether someone applies for that role or not. `free`
 - [Job Title Thesaurus](https://www.enlightenjobs.com/job-titles.php) - Enter a job title and see a list of similar job titles. `free`
 - [Total Jobs Gender Bias Detector](https://www.totaljobs.com/insidejob/gender-bias-decoder/) - Paste in the job description and this tool will show you have many female-coded and male-coded words there are. By replacing male-biased language with our neutral or female-coded suggestions, your job advert will appeal to more people and generate more applications. `free`
-- [NuetralizeIt](https://github.com/DSC-HackForGood-2022/NeutralizeIt) - A Chrome, Opera, Brave, and Edge browser extension which automatically replaces gender coded words with nuetral ones as your browse the web.
+- [NuetralizeIt](https://github.com/DSC-HackForGood-2022/NeutralizeIt) - A Chrome, Opera, Brave, and Edge browser extension which automatically replaces gender coded words with nuetral ones as your browse the web. `free`
 
 ## Lists
 
