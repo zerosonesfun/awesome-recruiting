@@ -80,8 +80,9 @@ Lists similar to this one.
 
 Tools related to resumes / CVs.
 
-- [Rezi Linkedin Profile to Resume Chrome Extension](https://chrome.google.com/webstore/detail/profile-to-resume-reziai/delakdmnpanaclafnplfomddhlhlcloe) - Using Google Chrome, install this extention then convert a Linkedin Profile to a resume. `free`
+- [Rezi Linkedin Profile to Resume Chrome Extension](https://chrome.google.com/webstore/detail/profile-to-resume-reziai/delakdmnpanaclafnplfomddhlhlcloe) - Using Google Chrome, install this extension then convert a Linkedin Profile to a resume. `free`
 - [GitHub README Resume](https://zerosonesfun.github.io/readme-resume/) - An example of how you could use a free GitHub repository and a README.md file to create a minimal resume. `free`
+- [JSON Resume](https://jsonresume.org) - The JSON Resume standard. `free`
 
 
 ## Tracking and Management Systems
