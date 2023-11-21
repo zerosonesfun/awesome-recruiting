@@ -84,6 +84,7 @@ Tools related to resumes / CVs.
 - [GitHub README Resume](https://zerosonesfun.github.io/readme-resume/) - An example of how you could use a free GitHub repository and a README.md file to create a minimal resume. `free`
 - [JSON Resume](https://jsonresume.org) - The JSON Resume standard. `free`
 - [JSON Resume Tools / Generators](https://alicornhunt.com/tools/resume-standard/) - JSON Resume Generator and other related tools by Alicorn Hunt. `free`
+- [NON-AI Resume Summarizer](https://alicornhunt.com/resume-summarizer/) - Paste in a resume and get the total years of experience, top skills, and contact information in seconds. All without using AI or sending the data anywhere. The tool works within your own browser. `free`
 
 
 ## Tracking and Management Systems
