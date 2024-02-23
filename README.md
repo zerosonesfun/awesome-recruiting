@@ -27,6 +27,7 @@ An 🕶 awesome-list of tools and information for talent acquisition professiona
 
 - [hireEZ AI Sourcing](https://hireez.com/solutions/ai-sourcing/) - hireEZ’s AI Sourcing sorts and ranks best-fit talent on the open web so you don’t have to spend hours scrolling through irrelevant candidate profiles. `paid`
 - [Rytr](https://rytr.me) - An AI content generator with an option to generate a job description with nothing but a job title. `free` `paid`
+- [Sparkles the Alicorn](https://recruit.zapier.app/) - Chat with Sparkles the Alicorn. A custom Zapier AI chatbot brought to you by Alicorn Hunt. `free`
 
 ## Boolean and X-ray
 
